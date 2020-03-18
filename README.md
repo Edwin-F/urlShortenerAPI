@@ -22,6 +22,9 @@ Run the following commands to start the project.
 
 Open index.html file in your browser to view content.
 
+### Testing
+Run the following commands to run tests for the project.
+<tt> npm test</tt>
 
 ## Built With
 * [Express](https://expressjs.com/)
